@@ -1,0 +1,9 @@
+Basic knowledge of creating test cases, bug reports, test plan, check-list;
+Basic knowledge of creating Test Plan, Traceability matrix;
+Basic knowledge in HTML, CSS, Java Script, SQL;
+Strong knowlege of test design technics;
+Practical experience with browser Dev Tools;
+Basic knowledge of REST API;
+Experience with GitHub, Postman, Jira, Charles, Jmeter;
+Knowledge of SDLC;
+

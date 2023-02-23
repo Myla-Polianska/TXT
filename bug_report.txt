@@ -1,1 +1,20 @@
+Date:
+Reported by:
+Sofware Name:
+Software version     and build:version
+Operation System and Language :
+Hardware configuration :
+Title:
+Problem Description:
+Pre-condition:
+Step to reproduce:
+Expected result:
+Actual result:
+Иug reproducibility:
+Attachments:
+Assigned to
+Priority:
+Severity:
+
+
 
